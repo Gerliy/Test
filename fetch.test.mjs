@@ -245,9 +245,9 @@ describe("Тестирование функции получения польз�
     })
 
     //it ("2+2 test || should", () => {
-     //   const sum = 2 + 2
-      //  const res = 4
-      //  sum.should.be.equal(res)
+    //    const sum = 2 + 2
+    //    const res = 4
+    //    sum.should.be.equal(res)
     //})
 
     it( "Функция должна вернуть 10 пользователей || expect" , async() => {
